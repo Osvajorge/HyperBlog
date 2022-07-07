@@ -1,12 +1,12 @@
 body {
     text-align: center;
     font-family: Helvetica, sans-serif;
-    color: rgb(66, 73, 95);
+    color: rgb(76, 107, 206);
 }
 
 #cabecera {
-    background:rgb(159, 207, 235);
-    color: white;
+    background:rgb(123, 182, 219);
+    color: rgb(237, 235, 235);
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
