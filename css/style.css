@@ -35,3 +35,10 @@ container h1 {
     background: white;
     padding: 1em;
 }
+
+#footer {
+    background: rgb(72, 70, 70);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 0.5em
+}
