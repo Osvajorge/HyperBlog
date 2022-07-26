@@ -14,6 +14,7 @@ README.md es el lugar donde se explica de qué trata el proyecto, cómo utilizar
 * B
 * C
 * Otra linea
+* segunda linea
 
 
 Los README.md pueden estar en todas las carpetas, pero el más importante es el que se encuentra en la raíz. *Este documento ayuda a que los colaboradores sepan* información relevante del proyecto, módulo o sección. Puedes crear cualquier archivo con la `extensión .md pero solo los README.md los mostrará por defecto GitHub.`
